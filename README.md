@@ -2,6 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-The quick brown fox jumped over the lazy dog near the riverbank.
+1. index.html
